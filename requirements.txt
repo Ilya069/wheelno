@@ -1,0 +1,5 @@
+psycopg2==2.8.4
+sql==0.4.0
+vk-api==11.8.0
+vkcoinapi==1.2.7
+websocket==0.2.1
